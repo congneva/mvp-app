@@ -1,1 +1,1 @@
-# mcp-app
+# mvp-app
